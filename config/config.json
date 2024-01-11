@@ -1,0 +1,11 @@
+{
+    "mysql": {
+      "host": "localhost",
+      "user": "root",
+      "password": "DaviD03001",
+      "database": "scraping_database",
+      "port": 3306
+    },
+    "url": "https://www.ejemplo.com"
+  }
+  

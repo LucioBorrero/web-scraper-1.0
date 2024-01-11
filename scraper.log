@@ -1,0 +1,15 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ejemplo.com:443
+DEBUG:urllib3.connectionpool:https://www.ejemplo.com:443 "GET / HTTP/1.1" 200 1021
+INFO:root:Datos almacenados con éxito.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ejemplo.com:443
+DEBUG:urllib3.connectionpool:https://www.ejemplo.com:443 "GET / HTTP/1.1" 200 1021
+INFO:root:Datos almacenados con éxito.
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error inesperado: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ejemplo.com:443
+DEBUG:urllib3.connectionpool:https://www.ejemplo.com:443 "GET / HTTP/1.1" 200 1021
+INFO:root:Datos almacenados con éxito.
